@@ -1,0 +1,19 @@
+========================================
+     NETWORK SECURITY MONITOR REPORT
+========================================
+
+Scan Time       : 2026-09-04 09:26:20
+Packets Analyzed: 20
+
+THREATS DETECTED
+----------------
+
+[HIGH] Possible Port Scan
+Source IP        : 127.0.0.1
+Destination IP   : 127.0.0.1
+Ports Contacted  : 10
+Ports            : [21, 22, 23, 25, 53, 80, 110, 139, 443, 8080]
+
+========================================
+             END OF REPORT
+========================================
