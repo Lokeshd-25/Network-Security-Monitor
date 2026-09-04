@@ -53,3 +53,19 @@ Network Traffic / PCAP
           |
           v
      Security Report
+
+---
+
+# 📸 Dashboard Screenshots
+
+## 🚨 Detected Threats
+
+![Detected Threats](detected-threats.png)
+
+## ⚙️ Detection Settings
+
+![Detection Settings](detection-settings.png)
+
+## 📊 Network Statistics
+
+![Network Statistics](network-statistics.png)
