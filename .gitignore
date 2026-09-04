@@ -5,3 +5,4 @@ __pycache__/
 .env
 app_backup.py
 app_step28.py
+data/live_capture_*.pcap
