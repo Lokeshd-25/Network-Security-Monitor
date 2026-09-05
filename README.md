@@ -443,10 +443,6 @@ This project demonstrates practical cybersecurity concepts including:
 
 **Lokesh D**
 
-B.Tech Computer Science & Engineering – Cyber Security  
-Manipal Institute of Technology, Bengaluru  
-Expected Graduation: 2028
-
 ---
 
 ## Disclaimer
